@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>92B43B13-B780-4C07-A31B-5D9024E33371</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92B43B13-B780-4C07-A31B-5D9024E33371.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SlothCreator</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SlothCreator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace SlothCreator with scheme SlothCreator</string>
+			<key>timeStartedRecording</key>
+			<real>718930552.37082195</real>
+			<key>timeStoppedRecording</key>
+			<real>718930572.16368496</real>
+			<key>title</key>
+			<string>Building workspace SlothCreator with scheme SlothCreator</string>
+			<key>uniqueIdentifier</key>
+			<string>92B43B13-B780-4C07-A31B-5D9024E33371</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

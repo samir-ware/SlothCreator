@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Target 'SlothCreator' in project 'SlothCreator'
+➜ Explicit dependency on target 'SlothCreator' in project 'SlothCreator'
+➜ Explicit dependency on target 'SlothCreator_SlothCreator' in project 'SlothCreator'
+Target 'SlothCreator' in project 'SlothCreator'
+➜ Explicit dependency on target 'SlothCreator_SlothCreator' in project 'SlothCreator'
+Target 'SlothCreator_SlothCreator' in project 'SlothCreator' (no dependencies)

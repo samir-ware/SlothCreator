@@ -1,0 +1,168 @@
+{
+  "" : {
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothCreator-master.dia",
+    "emit-module-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothCreator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothCreator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothCreator-master.swiftdeps"
+  },
+  "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Care/Activity.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Activity~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Care/CareSchedule.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/CareSchedule~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Care/FoodGenerator.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/FoodGenerator~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Creation/NameGenerator.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/NameGenerator~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Creation/SlothGenerator.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothGenerator~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Models/Color.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Color~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Models/Food.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Food~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Models/Habitat.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Habitat~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Models/Power.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Power~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Models/Sloth.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Sloth~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Viewing/HabitatView.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/HabitatView~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Viewing/Image+initWithSloth.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/Image+initWithSloth~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Viewing/PowerPicker.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/PowerPicker~partial.swiftmodule"
+  },
+  "/Users/manishaware/SlothCreator/Sources/SlothCreator/Viewing/SlothView.swift" : {
+    "const-values" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.swiftconstvalues",
+    "dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.d",
+    "diagnostics" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.o",
+    "llvm-bc" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.bc",
+    "object" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.o",
+    "swift-dependencies" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView.swiftdeps",
+    "swiftmodule" : "/Users/manishaware/SlothCreator/docsData/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/x86_64/SlothView~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,4 @@
+module SlothCreator {
+header "SlothCreator-Swift.h"
+export *
+}
