@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4A9112FD-0E39-426F-9CB4-9480CEF8A9B0</key>
+		<key>5E64AB03-41C3-435A-A601-1D9861B83930</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4A9112FD-0E39-426F-9CB4-9480CEF8A9B0.xcactivitylog</string>
+			<string>5E64AB03-41C3-435A-A601-1D9861B83930.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Building workspace SlothCreator with scheme SlothCreator</string>
 			<key>timeStartedRecording</key>
-			<real>719065590.73110795</real>
+			<real>719066670.93009603</real>
 			<key>timeStoppedRecording</key>
-			<real>719065610.58666801</real>
+			<real>719066686.93755996</real>
 			<key>title</key>
 			<string>Building workspace SlothCreator with scheme SlothCreator</string>
 			<key>uniqueIdentifier</key>
-			<string>4A9112FD-0E39-426F-9CB4-9480CEF8A9B0</string>
+			<string>5E64AB03-41C3-435A-A601-1D9861B83930</string>
 		</dict>
 	</dict>
 </dict>
