@@ -30,12 +30,11 @@ git config user.email "$DOCC_GITHUB_EMAIL"
 # Change the GitHub URL to your repository
 echo "effective url is" ${DOCC_GITHUB_USERNAME}${DOCC_GITHUB_API_TOKEN};
 
-git remote set-url origin https://$DOCC_GITHUB_USERNAME:$DOCC_GITHUB_API_TOKEN@github.com/samir-ware/SlothCreator
+git remote set-url origin https://$DOCC_GITHUB_USERNAME:$DOCC_GITHUB_API_TOKEN@github.com/samir-ware/SlothCreator.git
 git fetch
 
 git add .
 git commit -m "Updated DocC documentation"
 git push origin main 
 
-rm -rf docs doc_archives
 
