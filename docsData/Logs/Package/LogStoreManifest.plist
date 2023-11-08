@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>50D17808-B600-4CB8-8F45-952EBBA33FD9</key>
+		<key>0EC520F6-1764-4403-8FF8-5BA39AAB2CB3</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>50D17808-B600-4CB8-8F45-952EBBA33FD9.xcactivitylog</string>
+			<string>0EC520F6-1764-4403-8FF8-5BA39AAB2CB3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -34,15 +34,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>719067198.82190394</real>
+			<real>721153980.06111896</real>
 			<key>timeStoppedRecording</key>
-			<real>719067199.02838099</real>
+			<real>721153980.10652697</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>50D17808-B600-4CB8-8F45-952EBBA33FD9</string>
+			<string>0EC520F6-1764-4403-8FF8-5BA39AAB2CB3</string>
 		</dict>
-		<key>C1FB5EF4-C1D8-49A6-BCD1-9B84567BB3C6</key>
+		<key>10B8D6D7-1FB8-460C-9BF3-286C109DBD88</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -51,7 +51,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C1FB5EF4-C1D8-49A6-BCD1-9B84567BB3C6.xcactivitylog</string>
+			<string>10B8D6D7-1FB8-460C-9BF3-286C109DBD88.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -70,13 +70,13 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>719067199.02906203</real>
+			<real>721153978.476753</real>
 			<key>timeStoppedRecording</key>
-			<real>719067199.07064199</real>
+			<real>721153980.06033802</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>C1FB5EF4-C1D8-49A6-BCD1-9B84567BB3C6</string>
+			<string>10B8D6D7-1FB8-460C-9BF3-286C109DBD88</string>
 		</dict>
 	</dict>
 </dict>

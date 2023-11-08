@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/manishaware/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
+			<string>/Users/marinakun/Documents/slothDocC/slothcreator/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameFirePower</string>
 			<key>relativePath</key>
@@ -18,7 +18,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/manishaware/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
+			<string>/Users/marinakun/Documents/slothDocC/slothcreator/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameIcePower</string>
 			<key>relativePath</key>
@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/manishaware/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
+			<string>/Users/marinakun/Documents/slothDocC/slothcreator/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameIceSloth</string>
 			<key>relativePath</key>
@@ -38,7 +38,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/manishaware/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
+			<string>/Users/marinakun/Documents/slothDocC/slothcreator/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameLightningPower</string>
 			<key>relativePath</key>
@@ -48,7 +48,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/manishaware/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
+			<string>/Users/marinakun/Documents/slothDocC/slothcreator/SlothCreator/Sources/SlothCreator/Resources/Images.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameWindPower</string>
 			<key>relativePath</key>
