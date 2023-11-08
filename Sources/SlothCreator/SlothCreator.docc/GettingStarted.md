@@ -1,6 +1,6 @@
 # Getting Started with Sloths
 
-This is a test line . Create a sloth and assign personality traits and abilities to your Sloth.
+This is a test line . Create a sloth and assign personality traits and abilities to your Sloth. Have fun!!
 
 @Metadata {
     @PageImage(purpose: card, source: "gettingStarted-card", alt: "The profile images for a regular sloth and an ice sloth.")
