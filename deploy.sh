@@ -1,5 +1,5 @@
 #!/bin/bash
-
+source env.sh
 rm -rf docsData
 
 echo "Building DocC documentation for ModularSlothCreator..."
